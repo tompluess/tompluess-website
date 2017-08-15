@@ -1,7 +1,14 @@
 ---
-title: Welcome to Kickstart Website
----
+title: Willkommen bei Tom Plüss 
 
-# Welcome 
+# Willkommen bei Tom Plüss  
 
-This is the startpage of that kickstart website.
+Tom Plüss ist freischaffender Berater. 
+
+Sein Vorgehen zeichnet sich aus durch die Kombination von systemischem Denken & analytischer Vorgehensweise.
+
+### Kontakt
+
+Tom Plüss
+
++41 78 646 93 94
